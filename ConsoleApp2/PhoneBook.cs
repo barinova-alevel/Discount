@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         public Contact[] BookInitial()
         {
-            Contact[] phoneBook = new Contact[2];
+            Contact[] phoneBook = new Contact[2];   
             phoneBook[0].PhoneNumber = 1239;
             phoneBook[0].FirstName = "Tim";
             phoneBook[0].LastName = "Lastn";

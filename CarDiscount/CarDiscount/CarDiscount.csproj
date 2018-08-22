@@ -43,8 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CarBase.cs" />
+    <Compile Include="Minivan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trucks.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
